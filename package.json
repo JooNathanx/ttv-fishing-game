@@ -1,0 +1,13 @@
+{
+  "name": "twitch-fishing-game-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node local-dev-server.js",
+    "start": "node local-dev-server.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^13.7.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
